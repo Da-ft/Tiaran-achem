@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willkommen.md",
+                "file": "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Abenteurergilde von Brücklich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Willkommen"
+              "title": "Abenteurergilde von Brücklich"
             }
-          }
-        ]
-      },
-      {
-        "id": "24d4a68477e3cdb0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "57b3891ca37304c3",
+            "id": "1badf6d79531b371",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 - Verzwickte Lage in Brücklich"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "right": {
     "id": "33ecba02ca7f4934",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Willkommen.md",
+                "file": "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Willkommen"
+              "title": "Rückverweise auf Session 1 - Verzwickte Lage in Brücklich"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Willkommen.md",
+                "file": "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Willkommen öffnen"
+              "title": "Ausgehende Links von Session 1 - Verzwickte Lage in Brücklich öffnen"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Willkommen"
+              "title": "Gliederung von Session 1 - Verzwickte Lage in Brücklich"
             }
           }
         ]
@@ -199,8 +198,44 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "f85c405dbe5d069d",
+  "active": "1badf6d79531b371",
   "lastOpenFiles": [
-    "Willkommen.md"
+    "2.0 Tiaran'achem/1. Mira/3.3 Stadtlich/NSC's/Der Unsterbliche blasse Herrscher.md",
+    "2.0 Tiaran'achem/1. Mira/3.3 Stadtlich/NSC's",
+    "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
+    "Pasted image 20260714004601.png",
+    "Pasted image 20260714003207.png",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Stadtlicher Fluss.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Abenteurergilde von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Botschaft von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Brückengarde von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Händlervereinigung von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Bürgermeisteramt von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Tempel von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Schmiedezunft von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Bürgermeisterin Liora Venn.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Schmied Haldor Heisenand.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Priesterin Mara Bellwyn.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Hauptmann Elric Thane.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Händlervereinigte Mirella Sorn.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Gildenmeister Garrick Falkenruf.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Gesandter Corvin Aster.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Ausbilder Leon Wacht.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's",
+    "2.0 Tiaran'achem/1. Mira/1. Elthymira/Monarchin Elthymira.md",
+    "2.0 Tiaran'achem/1. Mira/1. Elthymira/Elthymira.md",
+    "2.0 Tiaran'achem/1. Mira/3.4 Stadtlicher Wald/Stadtlicher Wald.md",
+    "2.0 Tiaran'achem/1. Mira/3.3 Stadtlich/Stadtlich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich",
+    "2.0 Tiaran'achem/1. Mira/1. Elthymira/Icespire Peak.md",
+    "2.0 Tiaran'achem/1. Mira/1. Elthymira/Sprüngli.md",
+    "8.0 Ebenen/1. Astral Plane",
+    "8.0 Ebenen/0. Inner Sphere",
+    "8.0 Ebenen",
+    "7.0 Götter",
+    "6.0 Wesen",
+    "5.0 Drachenhäuser"
   ]
 }
