@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f85c405dbe5d069d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Abenteurergilde von Brücklich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abenteurergilde von Brücklich"
-            }
-          },
-          {
-            "id": "1badf6d79531b371",
+            "id": "fc1bb8bfaddfd644",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Session 1 - Verzwickte Lage in Brücklich"
             }
+          },
+          {
+            "id": "1badf6d79531b371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Ausbilder Leon Wacht.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ausbilder Leon Wacht"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,30 +197,30 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1badf6d79531b371",
+  "active": "fc1bb8bfaddfd644",
   "lastOpenFiles": [
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Ausbilder Leon Wacht.md",
+    "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Abenteurergilde von Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Brücklich.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Gildenmeister Garrick Falkenruf.md",
+    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Bürgermeisterin Liora Venn.md",
     "2.0 Tiaran'achem/1. Mira/3.3 Stadtlich/NSC's/Der Unsterbliche blasse Herrscher.md",
     "2.0 Tiaran'achem/1. Mira/3.3 Stadtlich/NSC's",
-    "0.0 Sessionnotizen/Session 1 - Verzwickte Lage in Brücklich.md",
     "Pasted image 20260714004601.png",
     "Pasted image 20260714003207.png",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Stadtlicher Fluss.md",
-    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Abenteurergilde von Brücklich.md",
-    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Botschaft von Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Brückengarde von Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Händlervereinigung von Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Bürgermeisteramt von Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Tempel von Brücklich.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen/Schmiedezunft von Brücklich.md",
-    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Bürgermeisterin Liora Venn.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Schmied Haldor Heisenand.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Priesterin Mara Bellwyn.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Hauptmann Elric Thane.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Händlervereinigte Mirella Sorn.md",
-    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Gildenmeister Garrick Falkenruf.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Gesandter Corvin Aster.md",
-    "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's/Ausbilder Leon Wacht.md",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/Institutionen",
     "2.0 Tiaran'achem/1. Mira/3.41 Brücklich/NSC's",
     "2.0 Tiaran'achem/1. Mira/1. Elthymira/Monarchin Elthymira.md",
